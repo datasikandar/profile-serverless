@@ -11,10 +11,6 @@ Globals:
     Timeout: 3
 
 Resources:
-  ProfileLoaderApi:
-    Type: AWS::Serverless::Api
-    Properties:
-      StageName: prod
   ProfileLoaderFunction:
     Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
     Properties:
@@ -29,7 +25,6 @@ Resources:
           Properties:
             Path: /loadProfile
             Method: get
-            RestApiId: !Ref ProfileLoaderApi
 
 Outputs:
   # ServerlessRestApi is an implicit API created out of Events key under Serverless::Function
