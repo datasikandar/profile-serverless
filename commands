@@ -1,2 +1,11 @@
 sam package --template-file template.yaml --output-template-file output-template.yaml --s3-bucket sk-03042020
 sam deploy --template-file output-template.yaml --stack-name ProfileLoader1 --capabilities CAPABILITY_IAM    
+
+----
+Automation
+----
+aws ssm put-parameter --name "/service/profile-serverless-pipeline/github/repo" --description "Github Repository name for Cloudformation Stack profile-serverless-pipeline-pipeline" --type "String" --value "profile-serverless"
+aws ssm put-parameter --name "/service/profile-serverless-pipeline/github/token" --description "Github Token for Cloudformation Stack profile-serverless-pipeline-pipeline" --type "String" --value "1bc80ac7b45184732f1829ed4667427648de3223"
+aws ssm put-parameter --name "/service/profile-serverless-pipeline/github/user" --description "Github Username for Cloudformation Stack profile-serverless-pipeline-pipeline" --type "String" --value "datasikandar"
+
+aws cloudformation create-stack --stack-name profile-serverless-pipeline-pipeline --template-body file://pipeline.yaml --capabilities CAPABILITY_NAMED_IAM
