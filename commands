@@ -9,3 +9,5 @@ aws ssm put-parameter --name "/service/profile-serverless-pipeline/github/token"
 aws ssm put-parameter --name "/service/profile-serverless-pipeline/github/user" --description "Github Username for Cloudformation Stack profile-serverless-pipeline-pipeline" --type "String" --value "datasikandar"
 
 aws cloudformation create-stack --stack-name profile-serverless-pipeline-pipeline --template-body file://pipeline.yaml --capabilities CAPABILITY_NAMED_IAM
+
+--
