@@ -1,3 +1,7 @@
-{"name": "Sikandar", 
-    "languages": ["English", "Urdu"]
-    }
+{
+    "name": "Sikandar",
+    "languages": [
+        "English",
+        "Urdu"
+    ]
+}
