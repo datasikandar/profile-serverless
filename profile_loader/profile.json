@@ -1,7 +1,290 @@
 {
-    "name": "Sikandar",
-    "languages": [
-        "English",
-        "Urdu"
+    "statistics": {
+        "Years": "15+",
+        "Projects": "10",
+        "Certifications": "10+"
+    },
+    "personal": {
+        "name": "Khan, Malik Sikandar",
+        "picture": "/assets/images/profile-pic.JPG",
+        "title": "Experienced Software Consultant",
+        "slogan": "",
+        "contact": "+1 908-845-6415",
+        "address": "Shrewsbury, Massachusetts",
+        "website": "http://khansikandar.com/",
+        "linkedin": "",
+        "github": "https://github.com/datasikandar",
+        "twitter": ""
+    },
+    "summary": [
+        "Experienced and accomplished Full Stack Developer with 12+ years of experience in developing end to end multi-million dollar global projects for Finance, Telecom industries & e-Commerce industries.",
+        "Strong experience in designing & developing Java & J2EE applications",
+        "Strong experience in Core Java, Multi-threading Concurrency, Collections & NIO",
+        "Strong experience in Microservices architecture, design and development",
+        "Strong experience in backend integrations, caching & distributed data processing systems",
+        "Strong experience in Frontend technologies",
+        "Strong Experience in Cloud, Big Data & NoSQL databases",
+        "OOA&D, Design Patterns, J2EE Patterns, Enterprise Integration Patterns",
+        "Strong analytical & problem solving skills",
+        "Team Leadership"
+    ],
+    "technicalSkills": {
+        "Programming Languages": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "Design Patterns": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "Microservices Frameworks": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "AWS Cloud Computing": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "Big Data & Analytics": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "Application Security": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "Channels, Integration & Workflows": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "Frontend": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "OS & Containers": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "Databases": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
+        "Test, Build & Deployment": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"]
+    },
+    "certifications": [
+        {
+            "certification": "AWS Certified Developer Associate",
+            "badge": "/assets/images/certs/aws-cda.png",
+            "date": ""
+        },
+        {
+            "certification": "AWS Certified Solution Architect Associate",
+            "badge": "/assets/images/certs/aws-csaa.png",
+            "date": ""
+        },
+        {
+            "certification": "AWS Certified Cloud Practitioner",
+            "badge": "/assets/images/certs/aws-ccp.png",
+            "date": ""
+        },
+        {
+            "certification": "Oracle Certified Professional, Java SE 8 Programmer",
+            "badge": "/assets/images/certs/ocp8.png",
+            "date": ""
+        },
+        {
+            "certification": "Oracle Certified Associate, Java SE 8 Programmer",
+            "badge": "/assets/images/certs/oca8.png",
+            "date": ""
+        }	
+    ],
+    "otherCertifications": [
+        {
+            "certification": "TOGAF (Part 2)",
+            "badge": "",
+            "date": ""
+        },
+        {
+            "certification": "IBM Certified Solution Designer for OOA&D with UML",
+            "badge": "/assets/images/certs/ibm.jpg",
+            "date": ""
+        },
+        {
+            "certification": "Sun Certified Web Component Developer",
+            "badge": "/assets/images/certs/scwcd.png",
+            "date": ""
+        },
+        {
+            "certification": "Sun Certified Java Programme 1.3",
+            "badge": "/assets/images/certs/scjp.jpg",
+            "date": ""
+        }
+    ],
+    "education": [
+        {
+            "university": "National University of Singapore, Singapore",
+            "degree": "Master of Technology in Software Engineering",
+            "country": "sg",
+            "icon": "/assets/images/nus.jpg",
+            "year": "2012"
+        },
+        {
+            "university": "University of Sindh, Pakistan",
+            "degree": "Bachelor of Science in Information Technology",
+            "country": "pk",
+            "icon": "/assets/images/uos.jpg",
+            "year": "2005"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Wellington Management, Massachusetts, USA",
+            "icon": "/assets/images/wmg.jpg",
+            "startDate": "04/01/2017",
+            "endDate": "03/01/2019",
+            "ongoing": true,
+            "role": "Java Developer",
+            "projects": ["Prism", "Mosaic Data Analysis Platform", "WhatIf Analysis"]
+        },
+        {
+            "company": "Deutsche Bank Group, Singapore",
+            "icon": "/assets/images/db.jpg",
+            "startDate": "02/01/2011",
+            "endDate": "02/01/2017",
+            "ongoing": false,
+            "role": "Java Developer",
+            "projects": ["Global Trade Finance", "Fraud Detection & Monitoring", "Financial Supply Chain Management", "Multi Factor Authentication & E2E Security for Online Banking"]
+        },
+        {
+            "company": "NCS Pte. Lt.",
+            "icon": "/assets/images/scb.jpg",
+            "startDate": "02/01/2010",
+            "endDate": "02/01/2011",
+            "ongoing": false,
+            "role": "Java Developer",
+            "projects": ["Network Bank Platform"]
+        },
+        {
+            "company": "HP",
+            "icon": "/assets/images/hp.jpg",
+            "startDate": "08/01/2007",
+            "endDate": "02/01/2010",
+            "ongoing": false,
+            "role": "Java Developer",
+            "projects": ["Fault Report Management System", "PTCL Triple Play OSS"]
+        },
+        {
+            "company": "Etilize",
+            "icon": "/assets/images/etilize.jpg",
+            "startDate": "03/01/2006",
+            "endDate": "08/01/2007",
+            "ongoing": false,
+            "role": "Java Developer",
+            "projects": ["InQuire"]
+        }
+    ],
+    "projects": [
+        {
+            "projectName": "Prism",
+            "company": "Wellington Management, Massachusetts, USA",
+            "country": "us",
+            "startDate": "10/01/2017",
+            "endDate": "03/01/2019",
+            "icon": "/assets/images/wmg.jpg",
+            "role": "Java Developer",
+            "description": "Microservices based federation layer build on top of GraphQL",
+            "contribution": "E2E design and development",
+            "tools": "Core Java, Collections, Multi-Threading, Spring Boot, Spring Data, Spring Rest, Spring Security, Microservices, J2EE, Python, GraphQL, NodeJS, AWS CloudFormation, EC2, S3, ECS, Elastic Search, Docker"        
+        },
+        {
+            "projectName": "Mosaic Data Analysis Platform",
+            "company": "Wellington Management, Massachusetts, USA",
+            "country": "us",
+            "startDate": "10/01/2017",
+            "endDate": "03/01/2019",
+            "icon": "/assets/images/wmg.jpg",
+            "role": "Java Developer",
+            "description": "Data analysis platform for investors & portfolio managers",
+            "contribution": "E2E design and development",
+            "tools": "Core Java, Collections, Multi-Threading, Spring Boot, Spring Data, Spring Rest, Spring Security, Microservices, NodeJS, J2EE, Python, NodeJS, ReactJS, TypeScript, AWS CloudFormation, EC2, S3, Docker"        
+        },
+        {
+            "projectName": "WhatIf Analysis",
+            "company": "Wellington Management, Massachusetts, USA",
+            "country": "us",
+            "startDate": "04/01/2017",
+            "endDate": "10/01/2017",
+            "icon": "/assets/images/wmg.jpg",
+            "role": "Java Developer",
+            "description": "WhatIf analysis for investors & portfolio managers",
+            "contribution": "E2E design and development",
+            "tools": "Core Java, Collections, Multi-Threading, MyBatis, Spring Boot, Spring Retry, Spring Rest, Oracle DB, Microservices, J2EE, NodeJS, Angular 4, Redux, TypeScript"        
+        },
+        {
+            "projectName": "Global Trade Finance",
+            "company": "Deutsche Bank Group, Singapore",
+            "country": "sg",
+            "startDate": "01/01/2016",
+            "endDate": "02/01/2017",
+            "icon": "/assets/images/db.jpg",
+            "role": "Lead Java Developer",
+            "description": "Trade Finance offers comprehensive solutions along the trade value chain by combining international trade risk mitigation products and services with custom-made solutions for structured trade and export finance. It enables the client to manage risks and other issues associated with their import and export and domestic trade transactions, including international trade products, custom-made and performance-risk finance solutions for structured export and commodity trade finance.",
+            "contribution": "Requirement analysis & design of the various trade finance instruments, like Letter of Credit, Bank Guarantee and keeping track of them in JIRA. Developing the backend components of various trade finance products using Core Java, Design Pattern principles, Apache Lucene, Hibernate & Spring Framework. Develop the concurrent data processing modules for trade capture & load processing using Multi-threading techniques and design principles. Design & developed the micro services for trade finance modules. Developed the distributed cache server for on-boarding data. Design & develop the integration strategy (FTP, MQ, Web Service, and database), identify the integration environment requirements & dependencies. Develop audit module with MongoDB. Integrate with SWIFTNET TSU (Trade Service Utility) for a broader global reach. Develop end to end security using encryption, PKI, 2-way SSL & HSM devices. Static code scanning using Sonar & Veracode. Application Penetration Testing. Deployment of the components into Cloud based WebLogic environments.",
+            "tools": "Core Java, Collections, Multi-Threading, Hibernate, Apache Lucene, Spring Boot, Spring Security, Spring Data, Spring Batch, Quartz, JMS, MQ, Oracle Coherence, Oracle DB, MongoDB, Restful Services, J2EE "        
+        },
+        {
+            "projectName": "Fraud Detection & Monitoring",
+            "company": "Deutsche Bank Group, Singapore",
+            "country": "sg",
+            "startDate": "01/01/2015",
+            "endDate": "01/01/2016",
+            "icon": "/assets/images/db.jpg",
+            "role": "Lead Java & Hadoop Developer",
+            "description": "Develop a POC to implement fraud detection software that can detect suspicious transactions and strange user behaviour. The project was developed on Apache Hadoop, Hive & Spark for data summarization & analysis.",
+            "contribution": "",
+            "tools": "Core Java, Collections, Multi-Threading, Hibernate, Apache Lucene, Spring Framework, Spring Security, Spring Data, Spring Batch, Quartz, JMS, MQ, Oracle Coherence, Oracle DB, MongoDB, Restful Services, J2EE"        
+        },
+        {
+            "projectName": "Financial Supply Chain Management",
+            "company": "Deutsche Bank Group, Singapore",
+            "country": "sg",
+            "startDate": "02/01/2011",
+            "endDate": "12/01/2015",
+            "icon": "/assets/images/db.jpg",
+            "role": "Lead Java Developer",
+            "description": "Deutsche Bank’s Financial Supply Chain provides financing opportunities and value-added services for all stages of their corporate supply chain. It contributes to improve the working capital management and liquidity generation, lowering cost and enhancing supply chain transparency. It offers further benefits for Target's international trading partners by providing online reporting, tracking and straight forward payment processing worldwide. Major offerings are Supplier finance, Receivable finance & Distributor finance. It’s a one stop services to Target’s buyers, suppliers, insurers, transporters, etc. who are involved in supply chain business. ",
+            "contribution": "Closely work with the product managers & business analysts to understand the FSC requirements and design the solution accordingly. Review the design with the architecture board and develop the solution. Security Architecture review, assessment & remediation. Develop backend modules using Core Java, Hibernate & Spring. Use Java’s concurrent API to develop the functionalities like client data loading, mapping & storage. Define the integration strategy, integration environment requirements, dependencies and the product-component integration sequence. Design & developed the common backend components as a service. Developed seamless bidirectional data integration with Target’s corporate ERP system. Proposed & developed a solution to implement Target ERP integration mapping with a latest mapping product, called Message Broker. This solution saved around $0.7 Million annually. Develop the 2-factor authentication using Smart Cards, VASCO. Develop end to end security using encryption, PKI, 2-way SSL & HSM devices. Use Oracle coherence for caching the data. Use Golden Gate to replicate the data from FSCM & its upstream & downstream interfaces. Enable 2-way SSL on WebLogic by using standard PKI infrastructure. Deploy the solution in a Cloud based architecture. Oversee the load testing & capacity management teams. Platform enhancement to meet the audit & compliance requirements from various regulatory bodies & programs",
+            "tools": "Core Java, Multi-Threading, Collections, Spring Framework, Spring Security, Spring Data, Spring Batch, Hibernate, JAXB, MyBatis, MQ, JMS, Oracle DB, Golden Gate, Oracle Coherence & Cassandra, J2EE"        
+        },
+        {
+            "projectName": "Multi Factor Authentication & E2E Security for Online Banking",
+            "company": "Deutsche Bank Group, Singapore",
+            "country": "sg",
+            "startDate": "02/01/2011",
+            "endDate": "12/01/2015",
+            "icon": "/assets/images/db.jpg",
+            "role": "Lead Java Developer & Architect",
+            "description": "Architect, design & developed end to end security and multi factor authentication for Deutsche Bank online banking platform. ",
+            "contribution": "Architect the E2E Security solution which also included the multi factor authentication which supports multiple devices like Smart Cards, VASCO, etc. Password encryption and storage in crash resistant HSM device. Design & develop the integration strategies & APIs",
+            "tools": "RSA, PKI, Encryption, 2-Way SSL, HSM, Core Java, Multi-Threading, Collections, Spring Framework, Hibernate, JAXB, MyBatis, J2EE"        
+        },
+        {
+            "projectName": "Network Bank Platform",
+            "company": "NCS Pte. Ltd., Singapore",
+            "country": "sg",
+            "startDate": "02/01/2010",
+            "endDate": "02/01/2011",
+            "icon": "/assets/images/scb.jpg",
+            "role": "Sr. Application Consultant",
+            "description": "Developed in partnership with Wells Fargo, Standard Chartered Bank’s Network Bank platform facilitates the network banks to partners for specific services (especially payments and “regular” collections) which can be totally transparent to the SCB clients. This business model entails that SCB clients maintain direct account relationships with SCB for the core cash management services in these countries and not with the Network Bank.",
+            "contribution": "Develop the complete workflow of the payments & cash management module using the Axway Synchrony, Java & Web Services. Design & develop different mapping engines using Core Java, Multi-threading, Collections, JAXB to convert different SWIFT & ISO format to a standard format in XSD for easy data manipulation with the standard chartered bank. Develop the backend modules of Straight2Bank (Straight through processing) using Core Java, Hibernate & Spring. Packaging & deployment on Axway Synchrony & WebLogic. Performance tuning of all backend & frontend components with the help of tools like jmeter, Volumetrix, AWR and manual processes.",
+            "tools": "Java, Collections, Multi-Threading, J2EE, Hibernate, Spring Framework, MQ, JMS, Apache Camel, Oracle, Axway Synchrony"        
+        },
+        {
+            "projectName": "Fault Report Management System",
+            "company": "Hewlett Packard, Singapore",
+            "country": "sg",
+            "startDate": "08/01/2007",
+            "endDate": "02/01/2010",
+            "icon": "/assets/images/hp.jpg",
+            "role": "Sr. Software Engineer",
+            "description": "Fault report management system is SingTel’s new & enhanced version of its global help desk & ticketing system.",
+            "contribution": "Played a lead role in requirement gathering phase of FRMS2. Release Planning, Scoping & timely delivery of FRMS2 using Java & J2EE Technologies. Use Core Java to develop individual components and interface them with HP Service Manager. Design the ITIL workflow incident management & problem management frontend using Struts2. Work with SingTel to migrate the data from their old system to FRMS2.",
+            "tools": "Java, J2EE, Hibernate, Struts2, HP ITSM"        
+        },
+        {
+            "projectName": "PTCL Triple Play OSS",
+            "company": "Hewlett Packard, Singapore",
+            "country": "sg",
+            "startDate": "08/01/2007",
+            "endDate": "02/01/2010",
+            "icon": "/assets/images/hp.jpg",
+            "role": "Sr. Software Engineer",
+            "description": "Triple Play OSS (HP Operations Support System) manages the devices and monitors all the alarms generated by then.",
+            "contribution": "Played a lead role in requirement gathering phase of PTCL Triple Play. Release Planning, Scoping & timely delivery of Triple Play using Java & J2EE Technologies along with the customization of the HP OSS products. Work with business partners to understand the requirements and technology selection. Handled the complete infrastructure setup including setting up DR and performing the successful DR.",
+            "tools": "Java, J2EE, Struts, Hibernate, Oracle, HP OVPI, OSS"        
+        },
+        {
+            "projectName": "InQuire (www.spexlive.net)",
+            "company": "Etilize Pvt. Ltd.",
+            "country": "pk",
+            "startDate": "03/01/2006",
+            "endDate": "08/01/2007",
+            "icon": "/assets/images/etilize.jpg",
+            "role": "Sr. Software Engineer",
+            "description": "It’s a search engine developed using Apache Lucene and consists of a backend/core API which fetches the data from content databases and makes this data accessible to different views, for example, inQuireWeb, which is a display centre of millions of contents. It also includes a JINI based server implementation of InQuire, called InQuireServer.",
+            "contribution": "Develop a search engine using Core Java & Apache Lucene which is capable to search the cache and fetch the records in a fraction of time. Develop an API for the search engine, inQuireCore. Work with the business to sell the inQuireCore API to different customers including Ingram Micro & Staples. Develop a web services layer on top of the inQuireCore, called InQuireServices, and developed using JINI. Develop a front end layer InQuireWeb using J2EE, Servlets & JSP by using J2EE patterns. Performance tuning the application from backend & frontend.",
+            "tools": "Java, J2EE, Lucene, JNI, Oracle"        
+        }
     ]
 }
