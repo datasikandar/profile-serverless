@@ -1,7 +1,7 @@
 {
     "statistics": {
         "Years": "15+",
-        "Projects": "10",
+        "Large Scale E2E Projects": "15+",
         "Certifications": "10+"
     },
     "personal": {
@@ -9,37 +9,36 @@
         "picture": "/assets/images/profile-pic.JPG",
         "title": "Experienced Software Consultant",
         "slogan": "",
-        "contact": "+1 908-845-6415",
-        "address": "Shrewsbury, Massachusetts",
+        "contact": "",
+        "address": "Massachusetts, United States",
         "website": "http://khansikandar.com/",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/khansikandar/",
         "github": "https://github.com/datasikandar",
-        "twitter": ""
+        "twitter": "https://twitter.com/datasikandar"
     },
     "summary": [
-        "Experienced and accomplished Full Stack Developer with 12+ years of experience in developing end to end multi-million dollar global projects for Finance, Telecom industries & e-Commerce industries.",
-        "Strong experience in designing & developing Java & J2EE applications",
-        "Strong experience in Core Java, Multi-threading Concurrency, Collections & NIO",
+        "Highly motivated, self-driven, dedicated, detailed-oriented with proven leadership & decision making skills",
+        "Organized, resourceful, responsible, problem-solving and results producing professional",
+        "Experienced and accomplished software professional with 15+ years of solid experience in architecting, designing and developing enterprise scale end to end projects for Finance, Telecom & e-Commerce industries.",
+        "Strong experience in architecting, designing & developing Java & JEE applications",
+        "Strong experience in Core Java, Multi-threading Concurrency, Collections, NIO, AOT & Native Images",
         "Strong experience in Microservices architecture, design and development",
         "Strong experience in backend integrations, caching & distributed data processing systems",
         "Strong experience in Frontend technologies",
         "Strong Experience in Cloud, Big Data & NoSQL databases",
-        "OOA&D, Design Patterns, J2EE Patterns, Enterprise Integration Patterns",
-        "Strong analytical & problem solving skills",
-        "Team Leadership"
+        "OOA&D, Design Patterns, J2EE Patterns, Enterprise Integration Patterns"
     ],
     "technicalSkills": {
-        "Programming Languages": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "Design Patterns": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "Microservices Frameworks": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "AWS Cloud Computing": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "Big Data & Analytics": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "Application Security": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "Channels, Integration & Workflows": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "Frontend": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "OS & Containers": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "Databases": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"],
-        "Test, Build & Deployment": ["Java", "Python", "Go", "Design Patterns", "Core J2EE Patterns", "Enterprise Integration Patterns", "Spring Boot"]
+        "Java": ["Java", "Multi-threading", "NIO", "AOT", "Modules", "Streams", "Graal VM", "JEE", "Design Patterns", "JEE Patterns", "Enterprise Integration Patterns"],
+        "Microservices": ["Spring Microservices", "Event Driven Microservices", "Reactive Microservices", "Node JS", "GraphQL"],
+        "Cloud Computing": ["AWS Cloud", "S3", "Athena", "EC2", "ECS", "Lambda", "API Gateway", "SAM", "KMS", "CloudFormation", "DynamoDB", "ElasticSearch"],
+        "Big Data & Analytics": ["Kinesis", "EMR", "Apache Hadoop", "Apache Cassandra", "Apache Spark", "Apache Hive", "Apache Pig", "Apache Hbase"],
+        "Languages": ["Python", "Golang"],
+        "Containers": ["Docker", "Kubernetes"],
+        "Channels, Integration & Workflows": ["Apache MQ", "AWS SQS", "AWS SNS", "Apache Camel", "Microservices Architecture Patterns"],
+        "Application Security": ["E2E Encryption", "HSM", "AWS KMS", "Microservices Security", "Spring Security", "Apache Shiro", "OWASP", "Veracode", "arcSight", "Penetration Testing"],
+        "Frontend": ["Angular", "ReactJS", "Struts", "jQuery", "JavaScript", "TypeScript"],
+        "Test, Build & Deployment": ["JUnit", "Spock", "Jest", "Protractor", "Maven", "Gradle", "AWS CI/CD"]
     },
     "certifications": [
         {
@@ -108,13 +107,12 @@
     ],
     "experience": [
         {
-            "company": "Wellington Management, Massachusetts, USA",
+            "company": "Softions Consulting Inc., USA",
             "icon": "/assets/images/wmg.jpg",
             "startDate": "04/01/2017",
-            "endDate": "03/01/2019",
             "ongoing": true,
-            "role": "Java Developer",
-            "projects": ["Prism", "Mosaic Data Analysis Platform", "WhatIf Analysis"]
+            "role": "Senior Software Engineer",
+            "projects": ["Sales API Microservices", "Prism", "Mosaic Data Analysis Platform", "WhatIf Analysis"]
         },
         {
             "company": "Deutsche Bank Group, Singapore",
@@ -122,35 +120,35 @@
             "startDate": "02/01/2011",
             "endDate": "02/01/2017",
             "ongoing": false,
-            "role": "Java Developer",
+            "role": "Technical Specialist (Corp. Title., AVP)",
             "projects": ["Global Trade Finance", "Fraud Detection & Monitoring", "Financial Supply Chain Management", "Multi Factor Authentication & E2E Security for Online Banking"]
         },
         {
-            "company": "NCS Pte. Lt.",
+            "company": "NCS Pte. Ltd., Singapore",
             "icon": "/assets/images/scb.jpg",
             "startDate": "02/01/2010",
             "endDate": "02/01/2011",
             "ongoing": false,
-            "role": "Java Developer",
+            "role": "Senior Application Consultant",
             "projects": ["Network Bank Platform"]
         },
         {
-            "company": "HP",
+            "company": "Hewlett Packard Enterprise, Singapore",
             "icon": "/assets/images/hp.jpg",
             "startDate": "08/01/2007",
             "endDate": "02/01/2010",
             "ongoing": false,
-            "role": "Java Developer",
+            "role": "Senior Software Engineer",
             "projects": ["Fault Report Management System", "PTCL Triple Play OSS"]
         },
         {
-            "company": "Etilize",
+            "company": "Etilize Pvt. Ltd., Pakistan",
             "icon": "/assets/images/etilize.jpg",
             "startDate": "03/01/2006",
             "endDate": "08/01/2007",
             "ongoing": false,
-            "role": "Java Developer",
-            "projects": ["InQuire"]
+            "role": "Senior Software Engineer",
+            "projects": ["InQuire Web", "InQuire Server"]
         }
     ],
     "projects": [
