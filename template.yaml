@@ -12,7 +12,7 @@ Globals:
   Api:
     Cors:
       AllowMethods: "'*'"
-      AllowHeaders: "'http://profile-angular.s3-website-us-east-1.amazonaws.com'"
+      AllowHeaders: "'http://khansikandar.com'"
       AllowOrigin: "'*'"  
 
 Resources:
